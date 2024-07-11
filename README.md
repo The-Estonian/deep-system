@@ -30,8 +30,11 @@ To audit the program, follow the steps [here](https://github.com/01-edu/public/t
 Here's GIFs of the project:
 
 Video1: https://youtu.be/F7TeD7_VXMM
+
 Video2: https://youtu.be/ubKLfTtL2qQ
+
 Video3: https://youtu.be/u9tbkIUpTxU
+
 Video4: https://youtu.be/eAIT110fND0
 
 ## Contributing
