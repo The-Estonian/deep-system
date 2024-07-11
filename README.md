@@ -2,15 +2,24 @@
 
 ## Project Description
 
-The project consists of 8 different types of network interfaces that increase in complexity.
+As per project requirements i installed Linux on VirtualBox and reformated the Hard drive to have 30gb of room with partitioned folders as required.
 
-The last, 8th project consists of a 3 router system where each of the routers has a switch connected to them and Computers connected to the switches.
+I gave the VM a static IP of 192.168.8.100 that persists on reboots
 
-The computers communication is being handled by switches that use routers to route connections between eachother if the target computer is connected to other router.
+I changed ssh port to 2222 and created 3 users with required permissions:
 
-Subnets are being implemented to keep local IPs separate from eachother to avoid ip conflicts.
+luffy - sudo admin - login via key
+zoro - normal user - login via password
+nami - ftp user - login via password
 
-Computers 0 -> 4 just need to use switch to communicate between eachother, in case one of those computers needs to connect to Computers above 4 on the network then the connection will be routed through the switch to the router and from the routers to the switch and target computer.
+I installed MySql server on the VM with Wordpress and opened ports in firewall for the Wordpress site to be available outside of VM as required.
+
+Ports:
+2222 ssh connection
+21 ftp
+80, 443 Wordpress
+
+I created cronjob for the wordpress database to be saved every 1m
 
 ## Table of Contents
 
@@ -51,4 +60,4 @@ For any questions or suggestions, feel free to contact us directly at `Kood / JÃ
 
 ## Authors
 
-_Authors: [Jaanus Saar](https://01.kood.tech/git/jsaar), [Oliver Vilu](https://01.kood.tech/git/ovilu)_
+_Authors: [Jaanus Saar](https://01.kood.tech/git/jsaar)_
