@@ -24,7 +24,7 @@ I created cronjob for the wordpress database to be saved every 1m
 ## Table of Contents
 
 - [Audit](#audit)
-- [Screenshots](#screenshots)
+- [Videos](#videos)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -34,7 +34,7 @@ I created cronjob for the wordpress database to be saved every 1m
 
 To audit the program, follow the steps [here](https://github.com/01-edu/public/tree/master/subjects/devops/deep-in-system/audit).
 
-## Project GIFs
+## Project Videos
 
 Here's GIFs of the project:
 
