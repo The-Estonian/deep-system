@@ -23,13 +23,16 @@ Computers 0 -> 4 just need to use switch to communicate between eachother, in ca
 
 ## Audit
 
-To audit the program, follow the steps [here](https://github.com/01-edu/public/tree/master/subjects/devops/deep-in-net/audit).
+To audit the program, follow the steps [here](https://github.com/01-edu/public/tree/master/subjects/devops/deep-in-system/audit).
 
 ## Project GIFs
 
 Here's GIFs of the project:
 
-<img src="gifs/exercise1.gif" alt="Exercise1" width="1000">
+Video1: https://youtu.be/F7TeD7_VXMM
+Video2: https://youtu.be/ubKLfTtL2qQ
+Video3: https://youtu.be/u9tbkIUpTxU
+Video4: https://youtu.be/eAIT110fND0
 
 ## Contributing
 
